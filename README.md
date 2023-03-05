@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **opensource projects**
 
-- 🌱 I’m currently learning **Web development, Blockchain, DevOps and Data Analytics**
+- 🌱 I’m currently learning **Web development, Blockchain and DevOps**
 
 - 📝 I regularly write articles on [https://shaikahmadnawaz.hashnode.dev/](https://shaikahmadnawaz.hashnode.dev/)
 
