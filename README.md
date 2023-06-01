@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **nawazcode@gmail.com**
+- 📫 How to reach me **shaikahmadnawaz@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/drive/u/3/folders/1A6pzD7WIt99v-vbEtiJ7Iul3KuqSvTDv)
 
