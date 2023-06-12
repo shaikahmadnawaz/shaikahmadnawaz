@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **Web development, Blockchain and DevOps**
+- 🌱 I’m currently learning **Web development, App development, Blockchain and DevOps**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shaikahmadnawaz.vercel.app/)
 
