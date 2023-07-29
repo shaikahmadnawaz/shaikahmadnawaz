@@ -1,15 +1,15 @@
 <h1 align="center">Hello 👋, I'm Shaik Ahmad Nawaz</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikahmadnawaz&label=Profile%20views&color=0e75b6&style=flat" alt="shaikahmadnawaz" /> </p>
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **Web development, App development, Blockchain and DevOps**
+- 🌱 I’m currently learning **Web development, Machine Learning, Blockchain and DevOps**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shaikahmadnawaz.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shaikahmadnawaz.vercel.app)
 
-- 📝 I regularly write articles on [Hashnode](https://shaikahmadnawaz.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://shaikahmadnawaz.hashnode.dev)
 
 - 💬 Ask me about **Web development**
 
