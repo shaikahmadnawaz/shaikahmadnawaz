@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikahmadnawaz&label=Profile%20views&color=0e75b6&style=flat" alt="shaikahmadnawaz" /> </p>
 
-- 🔭 I’m currently working on **Open Source Projects**
+- 🔭 I’m currently working on **Freelance Projects**
 
 - 🌱 I’m currently learning **Web development, Machine Learning, Blockchain and DevOps**
 
