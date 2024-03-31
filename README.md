@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikahmadnawaz&label=Profile%20views&color=0e75b6&style=flat" alt="shaikahmadnawaz" /> </p>
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 Nice to meet you, I'm Shaik Ahmad Nawaz
 <!-- <h1 align="center">Hello 👋, I'm Shaik Ahmad Nawaz</h1>
@@ -25,7 +27,7 @@ Nice to meet you, I'm Shaik Ahmad Nawaz
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikahmadnawaz&label=Profile%20views&color=0e75b6&style=flat" alt="shaikahmadnawaz" /> </p>
+
 
 <!-- - 🔭 I’m currently working on **Freelance Projects**
 
