@@ -6,7 +6,7 @@ Nice to meet you, I'm Shaik Ahmad Nawaz
 <h3 align="center">A passionate Full Stack Developer</h3> -->
 
 # Who Am I? 🤠
-🤓 Self-taught developer<br>🔭 I’m currently working as Associate Software Developer<br>🌱 I’m currently learning Next.js<br>📝 I regularly write articles on https://shaikahmadnawaz.hashnode.dev<br>📫 How to reach me shaikahmadnawaz@gmail.com
+🤓 Self-taught developer<br>🔭 I’m currently working as Associate Software Developer<br>🌱 I’m currently learning Next.js<br>🤝 My portfolio https://shaikahmadnawaz.vercel.app<br>📝 I regularly write articles on https://shaikahmadnawaz.hashnode.dev<br>📫 How to reach me shaikahmadnawaz@gmail.com
 
 
 ## 🌐 Socials:
