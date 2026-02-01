@@ -9,7 +9,7 @@ I build scalable web applications and manage cloud infrastructure. Currently foc
 - SDE-I at [mybizz ERP](https://mybizzerp.com) - Hyderabad, India
 - Managing production Azure infrastructure for enterprise ERP platform
 - Building AI-powered automation tools with LLMs
-- Learning DevOps & writing about LLMs
+- Learning Linux, DevOps & writing about LLMs
 
 ## Work
 
@@ -59,7 +59,7 @@ AI/ML       RAG · LangChain · MCP · Ollama · GPT · Gemini · Mistral
 
 ## Writing
 
-I write about web development, DevOps, and AI/ML on my [blog](https://shaikahmadnawaz.dev). Recent topics include:
+I write about web development, DevOps, and AI/ML on my [blog](https://shaikahmadnawaz.dev/blog). Recent topics include:
 
 - Building ML models and MLOps practices
 - Linear algebra fundamentals for ML
@@ -78,4 +78,4 @@ I write about web development, DevOps, and AI/ML on my [blog](https://shaikahmad
 
 ## Links
 
-[Portfolio](https://shaikahmadnawaz.dev) · [LinkedIn](https://linkedin.com/in/shaikahmadnawaz) · [Twitter](https://x.com/shaikahmadnawaz) · [Blog](https://shaikahmadnawaz.dev) · [Email](mailto:shaikahmadnawaz@gmail.com)
+[Portfolio](https://shaikahmadnawaz.dev) · [LinkedIn](https://linkedin.com/in/shaikahmadnawaz) · [Twitter](https://x.com/shaikahmadnawaz) · [Blog](https://shaikahmadnawaz.dev/blog) · [Email](mailto:shaikahmadnawaz@gmail.com)
