@@ -71,10 +71,10 @@ I write about web development, DevOps, and AI/ML on my [blog](https://shaikahmad
 
 ## Achievements
 
-- 🥇 **1st Place - Webathon** - Secured first place and cash prize in a 24-hour national hackathon
-- 🏆 **Technology Award 2023** - Received from IAS officer and College Chairman for building Vaaradhi Portal
-- ☁️ **Microsoft Azure Developer Associate** - Certified
-- ☁️ **Google Cloud Digital Leader** - Certified
+- **1st Place - Webathon** - Secured first place and cash prize in a 24-hour national hackathon
+- **Technology Award 2023** - Received from IAS officer and College Chairman for building Vaaradhi Portal
+- **Microsoft Azure Developer Associate** - Certified
+- **Google Cloud Digital Leader** - Certified
 
 ## Links
 
