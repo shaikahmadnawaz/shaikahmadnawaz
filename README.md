@@ -1,69 +1,70 @@
-# Hey, I'm Nawaz 👋
+# Hey, I'm Nawaz
 
-Full Stack Developer based in India.
+Full Stack Engineer - Infra & AI, based in India.
 
-I build scalable web applications and manage cloud infrastructure. Currently focused on AI-powered tools, DevOps practices, and B2B platforms. I enjoy writing about what I learn and sharing knowledge through technical blogs.
+Building scalable applications from the ground up, architecting resilient cloud infrastructure, and integrating practical AI solutions to solve real world problems.
 
 ## Now
 
 - SDE-I at [mybizz ERP](https://mybizzerp.com) - Hyderabad, India
-- Managing production Azure infrastructure for enterprise ERP platform
-- Building AI-powered automation tools with LLMs
-- Learning Linux, DevOps & writing about LLMs
+- Architecting B2B platforms and managing production Azure infrastructure
+- Building AI-powered automation tools with LLMs and agents
+- Learning DevOps and writing about ML and LLMs
 
 ## Work
 
 **mybizz ERP** - SDE-I _(Aug 2024 - Present)_
 
-Managing the complete Azure cloud infrastructure for an enterprise ERP platform serving multiple businesses:
+Managing end-to-end Azure ecosystem operations and building enterprise products:
 
-- **Infrastructure**: AKS clusters, VMs, VNets, VPN Gateway, App Gateway, Key Vaults, PostgreSQL, ACR - all with Jenkins CI/CD pipelines
-- **AutoCapture**: Built an AI-powered OCR system using Mistral & FastAPI that extracts structured JSON from scanned invoices and journals, reducing manual data entry
-- **Reachy**: Developed a lead discovery tool using Google Gemini & LangChain that finds LinkedIn prospects based on Ideal Customer Profile, streamlining sales prospecting
-- **Sathvar**: Currently building a B2B services marketplace with 3 synchronized portals (Admin, Partner, Customer) using Turborepo monorepo architecture
+- **Infrastructure**: Managing AKS clusters, VMs, VNets, App Gateway, Key Vaults, PostgreSQL, and ACR with Jenkins CI/CD pipelines for microservice deployments
+- **Sathvar**: Architecting a B2B services marketplace using Turborepo and TypeScript to synchronize Admin, Partner, and Customer portals
+- **AutoCapture**: Engineered an AI OCR tool via Mistral & FastAPI for document extraction from scanned invoices and journals
+- **Lead Discovery**: Built a Gemini-powered lead prospecting engine for automated sales qualification
+- **Frontend Performance**: Integrated TanStack Table server-side pagination, cutting table rendering times by 60%. Designed analytics dashboards with Recharts and TanStack Query, reducing perceived load times by 40%
+- **Backend Services**: Built internal Node.js (Express) report generation APIs and authored production-grade HTML email templates
 
 **mybizz ERP** - React Intern _(Apr - Jul 2024)_
 
-- Built the ERP Learning Hub using Next.js & MDX - a documentation site with 27 module guides helping users understand the ERP system
-- Developed 75+ page marketing website with React & TailwindCSS, improving company's web presence
+- Built the ERP Learning Hub using Next.js & MDX - a documentation site with 27 module guides
+- Developed 75+ page marketing website with React & TailwindCSS
 
 **Atoms Digital Solutions** - Full Stack Intern _(Mar 2023 - Mar 2024)_
 
-- Built a complete e-commerce platform for Mythri Jewellers using MERN stack with product catalog, cart, and payment integration
-- Deployed and managed the application on AWS EC2 with Nginx reverse proxy and custom domain configuration
+- Developed three websites for the Atoms Group ecosystem, driving 20% growth in online visibility
+- Architected a full-scale e-commerce platform for Mythri Jewellers using MERN stack, deployed on AWS EC2 with Nginx
+- Implemented client-acquisition features resulting in a 15% increase in client engagement
 
 ## Projects
 
-**[Sathvar](#)** - B2B services marketplace with Admin, Partner, and Customer portals. Built with React, TypeScript, and Turborepo for code sharing across apps.
+**[Yaad](/blog/yaad)** - Voice-first medicine reminders for India. Helps elderly and non-English speakers manage medication through native language voice interactions. Built with React Native, Expo, and Sarvam AI.
 
-**[AutoCapture](#)** - Intelligent document automation platform. Uses AI (Mistral) to extract structured data from PDFs - invoices, journals, and business documents.
+**[Sathvar](#)** - B2B services marketplace with Admin, Partner, and Customer portals. Engineered as a modular monorepo using Turborepo, scaling across React and Next.js applications.
 
-**[Reachy](#)** - AI-powered sales lead finder. Automates prospect discovery using LangChain and Google Gemini based on your ideal customer profile.
+**[AutoCapture](#)** - Intelligent document automation platform. Ingests unstructured documents (receipts, PDFs, scanned forms) and turns them into clean, structured data using ML models.
 
-**[Vaaradhi Portal](https://wayvaaradhi.org)** - Management system for "We Are With You" Charitable Trust. Handles donor, caretaker, and student data - replaced their manual Excel workflow. Won Technology Award 2023.
+**[Reachy](#)** - AI-powered sales lead finder. Utilizes LangChain to orchestrate LLM agents for internet research, data analytics, and prospect qualification.
 
-**[VConnect Globe](https://vconnectglobe.com)** - 1-on-1 mentorship platform connecting students with mentors who studied abroad. Features mentor registration, scheduling, and admin dashboard.
+**[Vaaradhi Portal](https://wayvaaradhi.org)** - Management portal for "We Are With You" Charitable Trust. Replaced error-prone Excel workflows to efficiently track donations, monitor student progress, and coordinate activities. Won Technology Award 2023.
 
-**[Next Note](https://next-note-saas.vercel.app)** - Note-taking SaaS with NextAuth.js authentication and Stripe subscriptions for premium features. Built with Next.js, PostgreSQL & Prisma.
+**[VConnect Globe](https://vconnectglobe.com)** - 1-on-1 mentorship platform connecting students with international alumni for study abroad guidance.
 
-**[Real-time Code Editor](https://realtime-sync-code-editor.vercel.app)** - Collaborative code editor with Socket.IO for real-time synchronization across multiple users.
+**[Next Note](https://next-note-saas.vercel.app)** - Note-taking SaaS with NextAuth.js authentication, Prisma with PostgreSQL, and Stripe subscriptions.
+
+**[Real-time Code Editor](https://realtime-sync-code-editor.vercel.app)** - Collaborative browser-based code editor using Socket.IO for real-time websocket synchronization.
 
 ## Stack
 
 ```
-Frontend    React · Next.js · TypeScript · TailwindCSS · TanStack Query · Zustand
-Backend     Node.js · Express · FastAPI · Python · MongoDB · PostgreSQL
-DevOps      Azure · AWS · Docker · Kubernetes · Jenkins · GitHub Actions
-AI/ML       RAG · LangChain · MCP · Ollama · GPT · Gemini · Mistral
+Frontend    JavaScript · TypeScript · React · Next.js · TailwindCSS · TanStack · Zustand
+Backend     Node.js · Express · Python · FastAPI · PostgreSQL · MongoDB
+DevOps      Linux · Docker · Kubernetes · Azure · AWS · Terraform · Jenkins · GitHub Actions
+AI/ML       LLMs · Ollama · RAG · LangChain · LangGraph · Agents · MCP
 ```
 
 ## Writing
 
-I write about web development, DevOps, and AI/ML on my [blog](https://shaikahmadnawaz.dev/blog). Recent topics include:
-
-- Building ML models and MLOps practices
-- Linear algebra fundamentals for ML
-- Transformer architecture for LLMs
+I write about web development, DevOps, and AI/ML on my [blog](https://shaikahmadnawaz.dev/blog). Recent topics include building ML models, linear algebra for ML, and transformer architecture for LLMs.
 
 ## Education
 
